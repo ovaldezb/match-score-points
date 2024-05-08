@@ -11,4 +11,4 @@ Unit Test Case included
 
 The Class to perform calculation is implemented as Interface, in order to decouple the dependency with Main class, besides the implementation could be enhanced if the requirements change in the future with less effort
 
-A customized Comparator was implemented in order to order first by Points and in case of a tie, order by alphabetically
+A customized Comparator was implemented in order to order first by Points and in case of a tie, order  alphabetically
